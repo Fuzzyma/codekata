@@ -1,0 +1,11 @@
+{
+  "description": "Repo for Code Kata in Dresden",
+  "repository": "https://github.com/Fuzzyma/codekata",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "standard": "^8.6.0"
+  },
+  "scripts":{
+    "test": "standard && mocha tests"
+  }
+}
